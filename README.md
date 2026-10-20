@@ -1,3 +1,5 @@
+> Archived 2026-10-20. Unused fork of `juicesharp/rpiv-mono`; its one local commit (clickable Todo heading) lives on in [nredd/rpiv-todo](https://github.com/nredd/rpiv-todo), the maintained split of `packages/rpiv-todo`, verified in [nredd/pi-harness](https://github.com/nredd/pi-harness).
+
 # rpiv-mono
 
 [![CI](https://img.shields.io/github/actions/workflow/status/juicesharp/rpiv-mono/ci.yml?branch=main&label=CI)](https://github.com/juicesharp/rpiv-mono/actions/workflows/ci.yml)
